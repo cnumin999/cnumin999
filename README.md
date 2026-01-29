@@ -16,8 +16,6 @@
 
 <br/><br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cnumin999&title=visitors&icon=github&edge_flat=true"/>
-
 </div>
 
 ---
