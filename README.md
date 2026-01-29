@@ -5,7 +5,6 @@
 
 <p align="center">
   <b>기록하며 성장하는 개발자</b><br/>
-  작은 아이디어를 코드로 구현합니다.
 </p>
 
 <p align="center">
