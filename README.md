@@ -1,74 +1,51 @@
-<!-- 상단 웨이브 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:818cf8&height=180&section=header&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_GITHUB_ID&title=Visitors" />
-</p>
+<div align="center">
+
+### Hi, I'm cnumin999 👋  
+기록하고 만들면서 배우는 개발자
+
+<br/>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_GITHUB_ID&title=visitors&icon=github" />
+
+</div>
 
 ---
 
-## 👋 Hi, I’m 민충
+## About
 
-- 기록하면서 성장하는 개발자  
-- 프로젝트 중심으로 공부하는 걸 좋아함  
-- 깔끔하고 읽기 쉬운 코드 지향  
+- 프로젝트 중심으로 공부
+- 구조부터 생각하는 걸 좋아해요
+- 기록하는 습관을 중요하게 봐요! 
 
 ---
 
-## 🛠 Tech Stack
+## Tech
 
-### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
-</p>
-
-### 🌐 Backend / Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" />
-</p>
-
-### 🗄 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,mysql&theme=light" />
 </p>
 
 ---
 
-## 🚀 Projects
+## Selected Project
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_ID/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_ID&repo=PROJECT1" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_ID/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_ID&repo=PROJECT2" />
-  </a>
-</p>
+### 🔹 QR 기반 제품 정보 플랫폼  
+제품에 부착된 QR을 통해  
+사용 설명 / 보증 정보 / 고객 피드백을 제공하는 서비스  
+
+<a href="https://github.com/YOUR_GITHUB_ID/REPO_NAME">→ Repository</a>
+
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight" />
-</p>
+꾸준히, 조용히, 제대로
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID&theme=tokyonight" />
-</p>
+</div>
 
----
-
-
-## 📫 Contact
-
-- GitHub: https://github.com/cnumin999
-- Email: cnumin999@gamil.com
-
-<!-- 하단 웨이브 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer" />
+<!-- BOTTOM WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:6366f1&height=120&section=footer" />
