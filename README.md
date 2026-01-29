@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a90e2,100:8fd3f4&height=120&section=header&text=cnumin999&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=cnumin999&fontSize=36&fontColor=4a90e2" />
 </p>
+
 
 <p align="center">
   <b>기록하며 성장하는 개발자</b><br/>
