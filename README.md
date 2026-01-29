@@ -5,14 +5,14 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" width="26"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32"/>
 
 <br/>
 
 코드로 기록하고  
 아이디어를 실험하는 중  
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confounded%20Face.png" width="24"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" width="24"/>
 
 <br/><br/>
 
@@ -24,15 +24,16 @@
 
 ## About
 
-- 프로젝트 하면서 배우는 게 제일 잘 맞음  
-- 정리하다가 생각이 바뀌는 순간이 좋음  
-- 삽질도 기록으로 남기는 편  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confounded%20Face.png" width="22"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" width="20"/>
+- 프로젝트 하면서 배우는 게 제일 잘 맞아요!  
+- 정리하다가 생각이 바뀌는 순간이 좋아요!    
 
 ---
 
 ## Tech Stack
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22"/>
 
 **Main**
 <p>
@@ -49,8 +50,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22"/>
-
 ---
 
 ## Projects
@@ -65,8 +64,10 @@
 </p>
 
 <div align="center">
-  <sub>만들다 보면 가끔 터지기도 함</sub><br/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" width="22"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" width="22"/>
+
+
 </div>
 
 ---
@@ -79,16 +80,9 @@
 
 ---
 
-## Contact
-
-- GitHub → https://github.com/cnumin999  
-- Email → cnumin999@gmail.com  
-
-<br/>
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" width="22"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="26"/>
 
 Thanks for stopping by  
 
