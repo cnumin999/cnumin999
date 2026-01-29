@@ -64,19 +64,11 @@
 
 ---
 
-## ✍️ Blog
-
-- 기록용 블로그 운영 중  
-- 개발하면서 막힌 부분 위주로 정리  
-
-🔗 https://var-log.tistory.com
-
----
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_GITHUB_ID
-- Email: your_email@example.com
+- GitHub: https://github.com/cnumin999
+- Email: cnumin999@gamil.com
 
 <!-- 하단 웨이브 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer" />
